@@ -1,0 +1,59 @@
+.contatos {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f1f1f1;
+    font-family: sans-serif;
+  }
+  
+  .contatos h1 {
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  form input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+  }
+  
+  form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #3e8e41;
+  }
+  
+  .contatos ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .contatos li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #ddd;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .contatos li span {
+    font-weight: bold;
+  }
+  
+
+
